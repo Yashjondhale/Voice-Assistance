@@ -1,7 +1,7 @@
 """
-Author - bhakti suryawanshi
+Author -yash jondhale
 Docstring - this file gives program for developing personal google assistant
-date - 20 dec 2022
+date -1 april 2024
 """
 import pyttsx3
 import speech_recognition as sr
