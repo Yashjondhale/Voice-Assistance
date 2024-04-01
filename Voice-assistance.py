@@ -101,4 +101,4 @@ except BaseException as ex:
     print(f"error occured = {ex}")
 
 finally:
-    print("Thank you .....bye..have a nice day"
+    print("Thank you .....bye..have a nice day")
